@@ -1,4 +1,4 @@
-# The-Weather-App
+# The Weather App
 ### **Description:**
  - Python weather app project for OOP.
  - The app uses the OpenWeatherMap API to get the weather data.
