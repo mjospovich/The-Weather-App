@@ -1,0 +1,19 @@
+City: New York
+Weather: Clear_day
+Temperature: -3 °C
+Wind speed: 37.0 km/h
+Humidity: 40%
+Pressure: 1013 hPa
+Local time: 07:50
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+City: Cairo
+Weather: Clear_night
+Temperature: 15 °C
+Wind speed: 13.0 km/h
+Humidity: 82%
+Pressure: 1023 hPa
+Local time: 23:12
