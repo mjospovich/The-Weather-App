@@ -1,3 +1,8 @@
+![](https://img.shields.io/github/license/mjospovich/The-Weather-App)
+![](https://img.shields.io/github/languages/code-size/mjospovich/The-Weather-App?color=blue)
+![](https://img.shields.io/badge/language%20-Python-yellow.svg)
+![](https://img.shields.io/badge/api%20-OpenWeatherMap-red.svg)
+
 # The Weather App
 ### **Description:**
  - Python weather app project for OOP.
